@@ -1,4 +1,4 @@
-# Mechanosensitive Ion Channels in the Ageing Human Brain after Traumatic Brain Injury
+# Mechanosensitive ion channels in the ageing human brain after traumatic brain injury
 
 An exploratory bioinformatics analysis of mechanosensitive ion channel gene expression 
 in post-mortem human brain tissue from older adults with and without a history of 
